@@ -1,0 +1,2 @@
+# Run charging notifier every 2 minutes
+*/2 * * * * cd <Path to Charging Notif Python Script> && <Replace with your Python version > charging_notif.py
